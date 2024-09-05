@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+         <h1>Heading tags:heading 1</h1>
+         <h2>heading 1</h2>
+         <h3>heading 1</h3>
+         <h4>heading 1</h4>
+         <h5>eading 5</h5>
+         <p>This is para</p>
+         <a href="https://codegnan.com/">codegnan</a>
+         <marquue style="color: red;text-align: center;">hello world</marquue>
+         <img src="./codegnan.jpeg" alt="codegnan logo"/>
+         <button>Click here</button>
+         <hr/>
+         <div>
+            division:Div is a block level 
+            element, new Line and 100% width
+         </div>
+         <br/>
+         <span>span:span is inline element and content background
+         space
+         </span>
+         <br/><br/>
+         <header>Headern is a semantic element</header>
+         <section>Section is a Body element</section>
+         <footer>Footer is a semantic element</footer>
+         <p>Lorem ipsum &nbsp;&nbsp;&nbsp;&nbsp;dolor sit, amet consectetur adipisicing elit. <br/><br/><br/>
+            Deserunt ullam eius, dolor saepe consequatur
+             voluptatibus! Quaerat, odit? Commodi repellendus vero soluta consequatur. 
+            Deleniti commodi voluptatem quasi aliquam quibusdam exercitationem eos.</p>
+    </div>
+</body>
+</html>
